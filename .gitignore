@@ -1,0 +1,44 @@
+# folders to ignore
+presentations/
+saved_models/
+notebooks/
+app-test-csvs/
+homo-lumo-gap-predictor/
+data/
+tuning/
+scripts/
+train/
+models/
+
+# specific files to ignore
+HOMO-LUMO-Gap-Predictions-3D.ipynb
+final_2d_gnn_study.db
+best_gnn_transformer_hybrid.pt
+
+# python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# environment and IDE files
+.vscode/
+.env
+.venv/
+venv/
+env/
+
+
+# logs and outputs
+logs/
+*.log
+output/
+results/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+cache/
+
