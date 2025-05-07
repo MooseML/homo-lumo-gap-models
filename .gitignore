@@ -14,6 +14,7 @@ models/
 HOMO-LUMO-Gap-Predictions-3D.ipynb
 final_2d_gnn_study.db
 best_gnn_transformer_hybrid.pt
+*~
 
 # python cache
 __pycache__/
