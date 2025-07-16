@@ -50,16 +50,10 @@ An interactive web application is available for real-time prediction and visuali
 - Molecular visualization
 - CSV result export for local logging
 
-## Project Structure
-
-```bash
-
-```
-
 
 ## Requirements
 
-Install dependencies via pip:
+Install dependencies with pip:
 
 ```bash
 pip install -r requirements.txt
